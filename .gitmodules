@@ -3,3 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rapidoc"]
+	path = rapidoc
+	url = https://github.com/meztez/rapidoc
+	shallow = true
+[submodule "redoc"]
+	path = redoc
+	url = https://github.com/meztez/redoc
+	shallow = true
