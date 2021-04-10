@@ -7,11 +7,14 @@
 	path = plumberDeploy
 	url = https://github.com/meztez/plumberdeploy
 	shallow = true
+	registered = true
 [submodule "rapidoc"]
 	path = rapidoc
 	url = https://github.com/meztez/rapidoc
 	shallow = true
+	registered = true
 [submodule "redoc"]
 	path = redoc
 	url = https://github.com/meztez/redoc
 	shallow = true
+	registered = true
