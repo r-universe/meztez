@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "rapidoc",
+    "package": "redoc",
     "oncran": true
   },
   {
-    "package": "redoc",
+    "package": "rapidoc",
     "oncran": true
   }
 ]
