@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "bigrquerystorage"]
+	path = bigrquerystorage
+	url = https://github.com/meztez/bigrquerystorage
 [submodule "plumberDeploy"]
 	path = plumberDeploy
 	url = https://github.com/meztez/plumberdeploy
