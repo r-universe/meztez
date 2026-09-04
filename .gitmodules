@@ -5,6 +5,12 @@
 [submodule "bigrquerystorage"]
 	path = bigrquerystorage
 	url = https://github.com/meztez/bigrquerystorage
+[submodule "nanoarrow"]
+	path = nanoarrow
+	url = https://github.com/meztez/arrow-nanoarrow
+	branch = fix-932-list-int64-ptype
+	subdir = r
+	registered = false
 [submodule "plumberDeploy"]
 	path = plumberDeploy
 	url = https://github.com/meztez/plumberdeploy

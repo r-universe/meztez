@@ -1,0 +1,10 @@
+[
+  {
+    "package": "nanoarrow",
+    "url": "https://github.com/meztez/arrow-nanoarrow",
+    "via": ["bigrquerystorage"],
+    "branch": "fix-932-list-int64-ptype",
+    "subdir": "r",
+    "from": "bigrquerystorage"
+  }
+]
